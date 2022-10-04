@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TBC_Course_28</string>
+    <string name="name">Luka \nNikuradze</string>
+    <string name="personal">Personal</string>
+    <string name="business">Business</string>
+    <string name="sample">Sample</string>
+    <string name="swipe_me">Swipe Me</string>
+    <string name="switch_me">Switch Me</string>
+    <string name="git">\@iTarley</string>
+
+</resources>
